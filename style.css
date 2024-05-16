@@ -103,7 +103,7 @@ form button[type="submit"] {
 table {
     width: 100%;
     border-collapse: collapse;
-    background-color: #EED2CC;
+    /* background-color: #d9fff9; */
 }
 
 table th, table td {
